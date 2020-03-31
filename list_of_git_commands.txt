@@ -1,0 +1,18 @@
+# change directory
+cd "directory inside quotes"
+
+# git clone "web addres of the repository"
+
+# ls --> lists all files and directories
+# git status
+
+# git add <file>..." to update what will be committed
+
+# git add -A (adds all files to staging)
+
+# git commit -m "changed capitalize()"
+
+# use "git push" to publish your local commits
+
+# git push origin master
+
