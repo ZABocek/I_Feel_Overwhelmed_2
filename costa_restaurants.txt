@@ -1,0 +1,13 @@
+name, address, zip code, vegetarian, vegan, gluten-free, menu
+Mr. Whiskers' Tea Garden, ,92626, yes, yes, yes,
+Joe's Pizza Palace, , 92627, yes, no, no,
+Bagel City, , 92627, yes, yes, no,
+HRH Afternoon High Tea, , 92628, yes, yes, yes,
+It's a Wrap, , 92627, yes, yes, yes, 
+Southern BBQ & Smoke House, , 92626, no, no, yes,
+The Vineyard, ,92626, yes, no, yes,
+Area 51, ,92626, yes, no, no,
+Nashford's Gourmet Burgers, , 92626, no, no, no, 
+Corner Cafe, ,92626, yes, yes, yes, 
+Mama Maya's Fine Italian, ,92626, yes, no, no, 
+Sushi Dragon, , 92627, yes, yes, yes,
